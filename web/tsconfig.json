@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./static-files/js",
+        "baseUrl": "./static-file/ts",
+        "noImplicitAny": true,
+        "newLine": "LF",
+        "target": "es6",
+        "module": "amd",
+        "allowJs": true,
+        "moduleResolution": "node",
+    }
+}
